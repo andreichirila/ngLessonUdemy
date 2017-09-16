@@ -6,6 +6,7 @@ import { Component, OnInit } from '@angular/core';
     <p>
       component3 Works!
     </p>
+    <ng-content></ng-content>
   `,
   styles: []
 })
